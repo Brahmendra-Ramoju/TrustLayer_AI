@@ -101,7 +101,7 @@ TrustLayer_AI
 
 ## Author
 
-Brahmendra Ramoju
+Surya Sai Brahmendra Ramoju
 
 GitHub:
 https://github.com/Brahmendra-Ramoju
