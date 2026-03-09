@@ -54,3 +54,19 @@ http://127.0.0.1:8000/docs
 - Trust scoring
 - User reputation system
 - Deployment as a hosted API
+
+## Example
+
+POST /analyze
+
+Input:
+You are dumb
+
+Response:
+
+{
+  "text": "You are dumb",
+  "label": "toxic",
+  "toxicity_probability": 0.977,
+  "trust_score": 2
+}
